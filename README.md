@@ -1,6 +1,6 @@
 # Video to MP3 Converter and Trimmer
 
-This script converts video files to MP3 format and trims them based on user input.
+This Python script provides a convenient way to convert video files to MP3 format and trim them according to user-specified start and end times. It utilizes the powerful FFmpeg multimedia framework for the conversion process.
 
 ## Prerequisites
 
