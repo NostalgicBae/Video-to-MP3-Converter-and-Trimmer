@@ -11,7 +11,7 @@ Before running the script, ensure you have the following installed on your syste
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/video-to-mp3-converter.git
+   git clone https://github.com/NostalgicBae/Video-to-MP3-Converter-and-Trimmer.git
    cd video-to-mp3-converter
 2. Place your video files in the input directory.
 3. Run the script:
