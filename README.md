@@ -15,6 +15,7 @@ Before running the script, ensure you have the following installed on your syste
    cd video-to-mp3-converter
 2. Place your video files in the input directory.
 3. Run the script:
+   ```bash
    python main.py
 4. Follow the on-screen prompts to specify trim start and end times for each video.
 5. The converted and trimmed MP3 files will be saved in the output directory.
